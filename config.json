@@ -1,0 +1,14 @@
+{
+    "assistant_name": "JARVIS",
+    "user_title": "sir",
+    "voice_enabled": true,
+    "notification_enabled": true,
+    "joke_probability": 0.20,
+    "voice_rate": 165,
+    "timezone": "Asia/Kolkata",
+    "learning_enabled": true,
+    "pattern_threshold": 3,
+    "deadline_alert_enabled": true,
+    "dashboard_host": "127.0.0.1",
+    "dashboard_port": 5000
+}

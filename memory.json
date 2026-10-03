@@ -1,0 +1,22 @@
+{
+    "reminder_history": [
+        {
+            "task": "spiderman",
+            "normalized_task": "spiderman",
+            "time": "00:19",
+            "date": "2026-10-03",
+            "weekday": "Saturday",
+            "created_at": "2026-10-03T00:18:27.830834+05:30"
+        },
+        {
+            "task": "maths test",
+            "normalized_task": "maths test",
+            "time": "16:30",
+            "date": "2026-10-03",
+            "weekday": "Saturday",
+            "created_at": "2026-10-03T16:29:56.594732+05:30"
+        }
+    ],
+    "patterns": [],
+    "pattern_notifications": []
+}

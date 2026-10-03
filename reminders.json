@@ -1,0 +1,21 @@
+[
+    {
+        "task": "spiderman",
+        "time": "2026-10-03T00:19:00+05:30",
+        "triggered": true,
+        "triggered_dates": []
+    },
+    {
+        "id": 1,
+        "task": "maths test",
+        "time": "16:30",
+        "date": "2026-10-03",
+        "recurrence": "once",
+        "weekdays": [],
+        "triggered_dates": [
+            "2026-10-03"
+        ],
+        "active": false,
+        "created_at": "2026-10-03T16:29:56.593287+05:30"
+    }
+]
